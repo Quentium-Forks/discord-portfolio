@@ -19,7 +19,7 @@ export default function Legals () {
 
             <h2>ARTICLE 2 : L’hébergeur</h2>
 
-            <p>L'hébergeur du site https://anthony-adam.fr est la Société Vercel Inc., dont le siège social est situé au 340 S Lemon Ave #4133 Walnut CA 91789 United States  , avec le numéro de téléphone : +1 951-383-6898.</p>
+            <p>L'hébergeur du site https://anthony-adam.fr est la Société Vercel Inc., dont le siège social est situé au 340 S Lemon Ave #4133 Walnut CA 91789 United States, avec le numéro de téléphone : +1 951-383-6898.</p>
 
             <h2>ARTICLE 3 : Accès au site</h2>
 

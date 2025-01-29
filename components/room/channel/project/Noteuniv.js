@@ -36,12 +36,12 @@ export default function Noteuniv ({ name }) {
             De mon côté j'ai été <span className="bold">en charge du site web et de l'application mobile</span>.
             <br/><br/>
             Nous avons présenté ce projet au <span className="bold">concours HackTaFac</span> de l'université de Strasbourg ou nous avons fini en final du jury.
-            Malheureusement nous n'avons pas été retenus à cause  de la <span className="italic">"difficile extension de votre projet à d’autres formations ou composantes"</span>, ce qui est compréhensible.
+            Malheureusement nous n'avons pas été retenus à cause de la <span className="italic">"difficile extension de votre projet à d'autres formations ou composantes"</span>, ce qui est compréhensible.
             C'est néanmoins une <span className="bold">aventure passionnante </span>qui est toujours d'actualité !
           </p>
           <br/>
           <p className="italic">Vous pouvez retrouver le code source de NoteUniv sur ce repo Github <a href="https://github.com/NoteUniv" onClick={() => handleLink(instance, 'github_noteuniv')}>https://github.com/NoteUniv</a> et le lien vers la vidéo de présentation ici : <a
-            href="http://hacketafac.unistra.fr/projects/noteuniv" onClick={() => handleLink(instance, 'hackTaFac')}>http://hacketafac.unistra.fr/projects/noteuniv/</a></p>
+            href="https://hacketafac.unistra.fr/projects/noteuniv/" onClick={() => handleLink(instance, 'hackTaFac')}>https://hacketafac.unistra.fr/projects/noteuniv/</a></p>
         </div>
       </ChannelMessage>
     </div>

@@ -80,7 +80,7 @@ export default function Parcours ({ name }) {
             <img src="/img/emoji/backpack.svg" className="emoji-s" alt="emoji Sac à dos"/>
             <p className="bold">L3-CMI IIRVIJ</p>
             <p className="italic">2021-2023</p>
-            <p>Cursus master ingéniérie. <br/>Informatique : Image, Réalité Virtuelle, Interactions et Jeux</p>
+            <p>Cursus master ingénierie.<br/>Informatique : Image, Réalité Virtuelle, Interactions et Jeux</p>
           </div>
         </div>
       </ChannelMessage>

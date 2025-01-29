@@ -33,7 +33,7 @@ export default function Skills ({ name }) {
                 </div>
             </ChannelMessage>
             <ChannelMessage author="Anthony Adam" date="Hier à 08:39">
-                <h3 className="bold">Gobal :</h3>
+                <h3 className="bold">Global :</h3>
                 <div className="skills">
                     <ul>
                         <li><img src="/img/emoji/pushpin.svg" className="emoji-s" alt=""/><span className="underline"> Les classiques</span> :  C / SQL / <img

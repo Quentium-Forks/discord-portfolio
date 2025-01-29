@@ -37,7 +37,7 @@ const sendMessage = (text, setText, setSendStatus) => {
       setText('')
       setSendStatus('ok')
     } else {
-      setSendStatus({error: 'Une erreur est survenu. Merci de réssayer plus tard.'})
+      setSendStatus({error: 'Une erreur est survenu. Merci de réessayer plus tard.'})
     }
   })
 }

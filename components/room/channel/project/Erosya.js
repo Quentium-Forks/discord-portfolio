@@ -29,13 +29,13 @@ export default function Erosya ({ name }) {
           </details>
           <br/>
           <details>
-            <summary><span className="bold">JEU EROSYA</span> - Jeu vidéo mobile crée en React Native intégré avec discord - &nbsp;<img src="img/emoji/incomming.gif" className="emoji-s" alt="en cours"/> </summary>
+            <summary><span className="bold">JEU EROSYA</span> - Jeu vidéo mobile crée en React Native intégré avec discord - &nbsp;<img src="img/emoji/incoming.gif" className="emoji-s" alt="en cours"/> </summary>
             <p> Pour m'entraîner à React Native, j'ai décidé de créer un jeu Gacha <span className="italic">(collection de cartes)</span> pour les membres du Discord, relié à leurs profiles et à Discord.
               Le jeu est actuellement en Alpha fermé. Si vous souhaitez voir de quoi il en retourne, contactez-moi !</p>
           </details>
           <br/>
           <details>
-            <summary><span className="bold">DISCADS</span> - Leboncoin pour discord - &nbsp;<img src="img/emoji/no_check.png" className="emoji-s" alt="en cours"/> </summary>
+            <summary><span className="bold">DISCADS</span> - LebonCoin pour Discord - &nbsp;<img src="img/emoji/no_check.png" className="emoji-s" alt="en cours"/> </summary>
             <p> Discads est un site web qui permet de mettre en relation les utilisateurs Discord avec des annonceurs afin de "louer" leurs statuts Discord.
               Le site fait en Symfony et React est actuellement en phase de prototype. Sa sortie en prévu en bêta courant novembre</p>
           </details>

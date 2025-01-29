@@ -48,7 +48,7 @@ export default function BulkInformation ({ name }) {
           <br/>
           <p>Mon premier jeu vidéo était "Medal Of Honor: Débarquement Alliée". J'ai encore le CD chez moi !</p>
           <br/>
-          <p>IDE : Webstorm / PhpStorm</p>
+          <p>IDE : WebStorm / PhpStorm</p>
           <br/>
           <p className="bold">Gif préféré :</p>
           <Tippy onMouseOver={() => handleEggs(instance, 'thatWhatSheSaid')} content={<img src="/img/thatWhatSheSaid.gif"/>}><img src="/img/theOffice.gif" alt="GIF the The Office"/></Tippy>
